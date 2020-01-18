@@ -19,6 +19,9 @@ function () {
   _createClass(Teste, [{
     key: "metodo",
     value: function metodo() {}
+  }, {
+    key: "outroMetodo",
+    value: function outroMetodo() {}
   }]);
 
   return Teste;
