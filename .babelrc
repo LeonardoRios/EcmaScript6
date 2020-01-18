@@ -1,6 +1,4 @@
 {
-    /* 
-        o preset-env irá indicar que deverá ser convertido quando usar um navegador 
-    */
+    /* O preset-env irá indicar que deverá ser convertido quando usar um navegador */
     "presets" : ["@babel/preset-env"]
 }
